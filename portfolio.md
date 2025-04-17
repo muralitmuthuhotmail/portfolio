@@ -4,7 +4,16 @@ Unit 2, 12 Marsden Street, Granville, NSW 2142
 📞 +61 470312057 | ✉️ murali.tmuthu@gmail.com
 
 ## Professional Summary
-Skilled Software Engineer with 12+ years of experience in application design and development, primarily at Woolworths. Specialized in creating web apps and large-scale business systems, adept at solving complex business challenges through robust IT solutions. Passionate about technology and collaborative team environments. 12+ years of deep experience with JAVA/J2EE Technologies. 4 years of hands-on experience in designing and developing Cloud Native/PaaS applications on Azure and GCP, leading highly praised projects at Woolworths. 8+ years of full-stack development using Android, Angular, Node JS, and Java, with 2 years of proficiency in React. Specialized in API development, Micro Frontend, and Microservices Architecture. Proficient in Web Services (RESTful & SOAP), Spring Boot, GCP, Firebase, Azure, Docker, SendGrid & Twilio. Expertise in integrating various interfaces, with in-depth exposure to Retail domains. Strong communication skills, effective problem-solving abilities, and quick adaptability to learning new technologies. Capable of independently developing end-to-end applications.
+- Skilled Software Engineer with 12+ years of experience in application design and development, primarily at Woolworths.
+- Specialized in building web applications and large-scale business systems to solve complex business challenges.
+- 12+ years of expertise in Java/J2EE Technologies.
+- 4 years of hands-on experience with Cloud Native/PaaS applications on Azure and GCP, delivering high-impact projects.
+- 8+ years of full-stack development using Android, Angular, Node.js, and Java; 2+ years with React.
+- Strong in API development, Micro Frontends, and Microservices Architecture.
+- Proficient in RESTful & SOAP Web Services, Spring Boot, Firebase, Azure, Docker, SendGrid, and Twilio.
+- Experienced in integrating diverse systems and services, with deep exposure to the Retail domain.
+- Excellent communicator with strong problem-solving skills and the ability to quickly adapt to new technologies.
+- Capable of independently developing and delivering end-to-end applications.
 
 ## Skills Summary
 
