@@ -2,299 +2,221 @@
 ### 🚀 Senior Full Stack Engineer  
 📍 Unit 2, 12 Marsden Street, Granville, NSW 2142  
 📞 +61 470312057 | ✉️ murali.tmuthu@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-thangamuthu-65a5415a/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/muralitmuthuhotmail)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-thangamuthu-65a5415a/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/muralitmuthuhotmail) [![Full Stack](https://img.shields.io/badge/-Full%20Stack-orange?style=flat)](https://github.com/muralitmuthuhotmail) [![Cloud Expert](https://img.shields.io/badge/-Cloud%20Expert-blue?style=flat&logo=googlecloud&logoColor=white)](https://github.com/muralitmuthuhotmail)
 
-
+---
 
 ## 🧠 Professional Summary
 
 Experienced and solution-oriented **Full Stack Engineer** with **12+ years** in architecting, developing, and deploying enterprise-grade applications across cloud-native environments. Adept at delivering scalable, secure, and performant systems using **Azure**, **GCP**, and **AWS**. Specializes in **microservices**, **API development**, and **system integration**. Known for driving cross-functional collaboration and translating business needs into technical success.
 
+---
 
 ## 🛠️ Core Competencies
 
+<div align="center">
+
 `Full-Stack Development` • `Cloud Architecture` • `API Design` • `Microservices` • `System Integration` • `CI/CD & DevOps` • `Agile Delivery`
 
+</div>
+
+---
 
 ## 💻 Technical Proficiencies
 
-### ⚙️ Frontend
-- **Frameworks**: React, Angular, Next.js, Stencil.js, jQuery  
-- **UI Libraries**: MUI, Bootstrap  
-- **Mobile**: Android (Kotlin)  
-- **Languages**: JavaScript, HTML5, CSS3, JSP, XML  
-- **Styling**: Sass, CSS3
+<table>
+  <tr>
+    <td><strong>⚙️ Frontend</strong></td>
+    <td><strong>🖥️ Backend</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Frameworks:</strong> React, Angular, Next.js, Stencil.js, jQuery<br>
+      <strong>UI Libraries:</strong> MUI, Bootstrap<br>
+      <strong>Mobile:</strong> Android (Kotlin)<br>
+      <strong>Languages:</strong> JavaScript, HTML5, CSS3, JSP, XML<br>
+      <strong>Styling:</strong> Sass, CSS3
+    </td>
+    <td>
+      <strong>Platforms:</strong> Node.js, Java/J2EE<br>
+      <strong>Frameworks:</strong> NestJS, Express, Spring Boot, Spring MVC<br>
+      <strong>ORM:</strong> Hibernate, Spring ORM<br>
+      <strong>Testing:</strong> JUnit, TestNG<br>
+      <strong>APIs:</strong> REST, SOAP<br>
+      <strong>Serverless:</strong> AWS Lambda, Azure Functions, Cloud Functions
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud & DevOps</strong></td>
+    <td><strong>🗃️ Databases & Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <strong>GCP:</strong> AppEngine, Pub/Sub, Cloud Functions, BigQuery<br>
+      <strong>Azure:</strong> Functions, Service Bus, Cosmos DB, Container Apps<br>
+      <strong>AWS:</strong> Argo Workflows, EC2, S3<br>
+      <strong>Firebase:</strong> Firestore, Realtime DB, Auth, Messaging<br>
+      <strong>CI/CD:</strong> Azure DevOps, Bitbucket Pipelines, GitHub Actions
+    </td>
+    <td>
+      <strong>DBs:</strong> PostgreSQL, Oracle, MySQL, MongoDB, H2, Firebase<br>
+      <strong>Tools:</strong> IntelliJ, VSCode, Git, Maven, Gradle, Swagger<br>
+      <strong>Project:</strong> JIRA, Confluence, Azure DevOps<br>
+      <strong>Servers:</strong> Tomcat, JBoss<br>
+      <strong>QA:</strong> SonarQube, Jest, JUnit
+    </td>
+  </tr>
+</table>
 
-### 🖥️ Backend
-- **Platforms**: Node.js, Java/J2EE  
-- **Frameworks**: NestJS, Express, Spring Boot, Spring MVC, Spring Integration  
-- **ORM**: Hibernate, Spring ORM  
-- **Testing**: JUnit, TestNG  
-- **APIs**: REST, SOAP  
-- **Serverless**: AWS Lambda, Azure Functions, Cloud Functions
-
-### ☁️ Cloud & DevOps
-- **GCP**: AppEngine, Pub/Sub, Cloud Functions, BigQuery, Composer, Airflow  
-- **Azure**: Functions, Service Bus, Cosmos DB, Container Apps  
-- **AWS**: Argo Workflows, EC2, S3  
-- **Firebase**: Firestore, Realtime DB, Auth, Messaging  
-- **CI/CD**: Azure DevOps, Bitbucket Pipelines, GitHub Actions
-
-### 🗃️ Databases & Tools
-- **DBs**: PostgreSQL, Oracle, MySQL, MongoDB, H2, SQLite, Firebase  
-- **Tools**: IntelliJ, VSCode, Android Studio, Git, Maven, Gradle, Swagger, Confluence, JIRA  
-- **Servers**: Tomcat, JBoss
-
-
+---
 
 ## 💼 Professional Experience
 
 ### 🔹 Senior Full Stack Engineer  
 **Macquarie Group (via FinXL)** | *Sydney, NSW*  
 📅 *Oct 2024 – Present*  
-**Project** The Reward Transformation
-> The reward transformation program to digitize and reduce manual processes
-```
-ReactJs,MUI
-NodeJs,ExpressJs,Nest JS
-AWS for Cloud Services
-PostgreSQL
-```
-#### Responsibility
-- Developed feature-rich web apps using **React** and **MUI**.  
-- Built APIs using **NestJS** and **Express** on **Node.js**.  
-- Leveraged **AWS**, **Argo Workflows**, and **PostgreSQL** for cloud-native solutions.  
+
+<div align="center">
+  <strong>Project: The Reward Transformation</strong>
+  <p><em>Digital transformation program to streamline and automate reward processes</em></p>
+  <code>React</code> • <code>MUI</code> • <code>Node.js</code> • <code>NestJS</code> • <code>Express</code> • <code>AWS</code> • <code>PostgreSQL</code> • <code>Argo Workflows</code>
+</div>
+
+#### Key Contributions:
+- Developed feature-rich web apps using **React** and **MUI** for intuitive user interfaces
+- Built scalable microservices using **NestJS** and **Express** on **Node.js**
+- Leveraged **AWS** cloud services and **Argo Workflows** for robust deployment pipelines
+- Designed and implemented efficient data models with **PostgreSQL**
 
 ---
 
 ### 🔹 Senior Full Stack Engineer  
 **Woolworths (via TCS)** | *Bella Vista, NSW*  
 📅 *Oct 2022 – Oct 2024*  
-**Project**: MPOS – Mobile Point of Sale  
-> The Mobile Point of Sale or MPOS is a Android Application built to
-> facilitate ‘queue busting’ for Retail stores during peaks of customer sales
-> at the Information/ Returns desks.
-> - The use-case of MPOS is
-> - Busting queues
-> - Reduce POS positions in store for greater product capacity
-> - Remote sales
-```
-Android(Java+Kotlin)
-NodeJs
-Azure Platform for Cloud Services
-PostgreSQL
-GCP
-Azure DevOps for CICD
-```
-#### Responsibility
-- Developed feature-rich Android applications using Kotlin,
-ensuring a seamless user experience and adherence to design
-guidelines.
-- Implemented server-side logic and RESTful APIs using Node.js,
-facilitating efficient communication between the frontend and
-backend systems.
-- Leveraged Azure Platform for cloud services, deploying and
-managing scalable applications with high availability and
-performance.
-- Managed data storage and retrieval processes using PostgreSQL,
-ensuring data integrity and optimization for efficient querying.
-- Integrated various Azure services such as Functions, Service Bus,
-and Azure Blob Storage into application architecture, enhancing
-functionality and scalability.
-- Utilized Google Cloud Platform (GCP) services for specific
-requirements, leveraging its capabilities for optimal performance
-and cost-effectiveness.
-- Orchestrated CI/CD pipelines using Azure DevOps, automating
-build, test, and deployment processes to streamline development
-workflows.
-- Collaborated with cross-functional teams to ensure alignment
-with project goals and standards, participating in Agile
-ceremonies and code reviews.
-- Implemented comprehensive unit testing and integration testing
-strategies to maintain code quality and reliability across the
-stack.
-- Documented technical designs, architecture decisions, and
-implementation details to facilitate clear communication and
-knowledge sharing within the team.
-- Stayed updated on emerging technologies and industry trends,
-driving continuous improvement initiatives to optimize
-development processes and enhance team productivity.
+
+<div align="center">
+  <strong>Project: MPOS – Mobile Point of Sale</strong>
+  <p><em>Android application to facilitate queue busting during peak sales periods at store information/returns desks</em></p>
+  <code>Android</code> • <code>Kotlin</code> • <code>Node.js</code> • <code>Azure</code> • <code>PostgreSQL</code> • <code>GCP</code> • <code>Azure DevOps</code>
+</div>
+
+#### Key Contributions:
+- Developed feature-rich **Android** applications using **Kotlin**, ensuring seamless UX and adherence to design guidelines
+- Implemented server-side logic and RESTful APIs using **Node.js** for efficient frontend-backend communication
+- Deployed scalable applications with high availability using **Azure Platform** cloud services
+- Implemented data integrity and optimization using **PostgreSQL** for efficient querying
+- Integrated various Azure services (Functions, Service Bus, Blob Storage) to enhance application functionality
+- Orchestrated CI/CD pipelines using **Azure DevOps** to streamline development workflows
+- Conducted comprehensive testing and documentation to maintain code quality across the stack
 
 ---
 
 ### 🔹 Senior Full Stack Engineer
 **Woolworths (via TCS)** | *Bella Vista, NSW*  
 📅 *Apr 2022 – Sep 2022*  
-**Project**: Digital Team Movements  
-> - Simplify store team movements(STM) to achieve higher efficiencies,
->data accuracies and thereby creating better experiences for
->Woolworths team members across Australian Food.
-> - This is part of the overall Team Mates program of work that aims to
->create a better experience for Store Team Members. The STM journey
->has been identified as priority to:
->   - Simplify the process
->   - Ensure compliance around master data, in particular, pay and
->   - leave entitlements
->   - Reduce the amount stalled workflow, thereby reducing the
-amount of manual rework
-```
-Angular,StencilJs,ReactJS,HTML5,CSS3,SCSS
-NodeJs
-GCP & AWS for cloud services
-Azure DevOps for CICD
-Terraform for Infra
-```
-#### Responsibility
-- Crafted engaging user interfaces using Angular and StencilJS,
-employing modern HTML5, CSS3, and SCSS techniques for
-enhanced interactivity and aesthetics.
-- Implemented robust server-side logic and RESTful APIs with
-Node.js, ensuring seamless integration and efficient data
-exchange between frontend and backend components.
-- Leveraged GCP's suite of cloud services to deploy scalable
-applications, harnessing the power of Compute Engine, Cloud
-Storage, and App Engine for optimal performance and reliability.
-- CI/CD Pipeline Setup: Orchestrated CI/CD pipelines using Azure
-DevOps, automating the software delivery process from build to
-deployment, fostering a culture of continuous integration and
-delivery.
-- Infrastructure Provisioning: Employed T erraform for
-infrastructure provisioning, defining infrastructure as code (IaC)
-to automate the deployment and management of cloud
-resources, ensuring consistency and scalability across
-environments.
-- Collaboration and Documentation: Actively engaged in
-cross-functional collaboration, contributing to Agile ceremonies
-and facilitating code reviews. Documented technical designs,
-deployment configurations, and infrastructure setups to ensure
-clear communication and knowledge sharing.
+
+<div align="center">
+  <strong>Project: Digital Team Movements</strong>
+  <p><em>Streamlining store team movements to improve efficiencies and data accuracy for Woolworths team members</em></p>
+  <code>Angular</code> • <code>StencilJS</code> • <code>ReactJS</code> • <code>Node.js</code> • <code>GCP</code> • <code>AWS</code> • <code>Azure DevOps</code> • <code>Terraform</code>
+</div>
+
+#### Key Contributions:
+- Crafted engaging user interfaces using Angular and StencilJS, employing modern HTML5, CSS3, and SCSS techniques for enhanced interactivity and aesthetics
+- Implemented robust server-side logic and RESTful APIs with Node.js, ensuring seamless integration and efficient data exchange between frontend and backend components
+- Leveraged GCP's suite of cloud services to deploy scalable applications, harnessing the power of Compute Engine, Cloud Storage, and App Engine for optimal performance and reliability
+- CI/CD Pipeline Setup: Orchestrated CI/CD pipelines using Azure DevOps, automating the software delivery process from build to deployment, fostering a culture of continuous integration and delivery
+- Infrastructure Provisioning: Employed Terraform for infrastructure provisioning, defining infrastructure as code (IaC) to automate the deployment and management of cloud resources, ensuring consistency and scalability across environments
+- Collaboration and Documentation: Actively engaged in cross-functional collaboration, contributing to Agile ceremonies and facilitating code reviews. Documented technical designs, deployment configurations, and infrastructure setups to ensure clear communication and knowledge sharing
 
 ---
 
 ### 🔹 Senior Full Stack Engineer
 **Woolworths (via TCS)** | *Bella Vista, NSW*    
 📅 *Jun 2016 – Mar 2022*  
-**Projects**: Store Central 2.0, Food Diversion, Action Center  
-> #### Store Central 2.0
-> Store Central is the core platform that “runs the
-> stores” across the Woolworths group. Store Central
-> 2.0 is the modernization program to revamp the
-> existing platform to move to a modern technology
-> stack and distribute some of the workload onto the
-> Azure Cloud. The program involves the design of a
-> responsive micro frontend application that renders in
-> all desktop, mobile, and tablet devices, and a
-> microservices-based backend
-> #### Food Diversion
-> A groundbreaking Australian first project that hooks
-> into inventory flow to help prevent food waste and
-> 100% food diversion away from landfills. This project
-> developed a capability that identifies wastage in
-> inventory movement across 2000+ stores in real-time
-> and diverts that stock to charity organizations. The
-> charity organizations get electronically notified about
-> food pickup at their local store thereby ensuring food is
-> diverted to the needy rather than into landfill
-> #### Action Center
-> The main intent of the Action Centre project is to
-> develop a capability to streamline and deliver store
-> staff across 2000+ Woolworths stores with real-time
-> actionable alerts throughout the day via a mobile app.
-> Alerts were generated by multiple algorithms that sift
-> through large volumes of data and alerts must reach
-> the stores almost instantly to maximize the benefit.
-> This project was a game changer for productivity
-> across the group and was designed with extensive
-> integration points and leveraging native cloud-based
-> notification processing technologies.
-> #### Application Hardening
-> Building CICD pipeline for all applications that come
-> under Stores umbrella
-```
-JAVA 8, Spring MVC, NodeJS APIs, GCP Cloud Native services,
-WebServices,(RESTful), Terraform, Firestore, Oracle 10g, SQLA,
-Maven and
-Junit, WinSCP , Azure DevOps, GIT , Jira, Intellij, Vscode, Splunk,
-etc.,
-```
-#### Responsibility
-- Key designer of the application landscape & system
-components (technology choice)
-- Involved in Solution Design
-- Worked as a Senior developer for building Microservices using
-NodeJs.
-- Used a lot of GCP Services such as Functions, Pub/Sub,
-Scheduler, and App Engine for REST API development.
-- Also used Oracle, SQLAnywhere, and Firestore services
-extensively.
-- Created a responsive frontend application that works well on
-different devices like desktops, mobile phones, and tablets. It's
-hosted through GCP App Engine with security based on JWT .
-- Currently working as a senior full-stack Java and Angular
-developer .
-- Built Microservices using JAVA and SpringBoot extensively.
-- Utilized Angular and SingleSpa for the Micro frontend
-application.
-- Also used Azure Functions, Service Bus, Azure Scheduler,
-Kubernetes, and Azure Blob Storage.
-- Led the team in Design, Development & Implementation.
-- Presented technical design walkthroughs & Demos with
-customers.
-- Followed industry standard coding styles.
-- Actively participated in all agile ceremonies.
-- Used Jest, Junit, and TestNG for Unit Testing.
-- Ensured code quality with Sonar Lint & SonarQube.
-- Also handled documentation.
+
+<div align="center">
+  <strong>Projects: Store Central 2.0, Food Diversion, Action Center, Application Hardening</strong>
+  <p><em>Enterprise-scale retail management systems and innovative solutions for 2000+ Woolworths stores</em></p>
+  <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>Node.js</code> • <code>GCP</code> • <code>Azure</code> • <code>Microservices</code> • <code>Micro Frontends</code> • <code>Terraform</code>
+</div>
+
+#### Key Project Highlights:
+
+**Store Central 2.0**: Modernization program to revamp the core platform that "runs the stores" across the Woolworths group, moving to a modern technology stack on Azure Cloud with responsive micro frontend architecture.
+
+**Food Diversion**: Groundbreaking initiative preventing food waste by identifying inventory wastage across 2000+ stores in real-time and diverting stock to charity organizations through automated notifications.
+
+**Action Center**: Innovative mobile app delivering real-time actionable alerts to store staff, processing large volumes of data through advanced algorithms to maximize operational efficiency.
+
+**Application Hardening**: Established robust CI/CD pipelines for all applications in the Stores portfolio.
+
+#### Key Contributions:
+- Architected application landscapes and system components, making strategic technology choices
+- Led microservices development using **Node.js** and **Java/Spring Boot**
+- Implemented cloud-native solutions with **GCP Services** (Functions, Pub/Sub, Scheduler, App Engine)
+- Created responsive frontend applications with **Angular** and **SingleSpa** for micro frontend architecture
+- Secured applications with **JWT**-based authentication
+- Integrated multiple database technologies including **Oracle**, **SQLAnywhere**, and **Firestore**
+- Led technical design, development, and implementation teams
+- Conducted technical walkthroughs and demos with stakeholders
+- Implemented comprehensive testing with **Jest**, **JUnit**, and **TestNG**
+- Ensured code quality through **SonarLint** and **SonarQube** integration
 
 ---
 
 ### 🔹 Full Stack Engineer
 **Woolworths (via TCS)** | *Chennai, India*   
-📅 *Nov 2012 – May 2016* 
-**Projects**: Replenishment, Forecasting Accuracy  
-```
-JAVA 8, Spring MVC
-WebServices,(RESTful), Oracle, SQLA, Maven
-Junit, WinSCP , GIT , Intellij, Vscode, etc.,
-```
-#### Responsibility
-- Assisted senior developers in various aspects of project
-development, including frontend and backend tasks.
-- Developed responsive and visually appealing user interfaces
-using HTML, CSS, and JavaScript.
-- Implemented server-side components and APIs using
-frameworks like Spring MVC.
-- Managed data storage and retrieval processes using databases
-such as Oracle and SQLA.
-- Collaborated with team members using Git and GitHub for
-version control and code collaboration.
-- Conducted unit testing using Jest and contributed to debugging
-and troubleshooting efforts.
-- Documented code and project workflows to maintain clarity
-and facilitate team collaboration.
-- Actively participated in team discussions, code reviews, and
-problem-solving sessions.
-- Demonstrated a commitment to continuous learning and
-improvement in full-stack development methodologies and
-technologies.
+📅 *Nov 2012 – May 2016*  
 
+<div align="center">
+  <strong>Projects: Replenishment, Forecasting Accuracy</strong>
+  <p><em>Core retail system development for inventory management and forecasting</em></p>
+  <code>Java</code> • <code>Spring MVC</code> • <code>RESTful</code> • <code>Oracle</code> • <code>SQLA</code> • <code>Maven</code> • <code>JUnit</code>
+</div>
 
+#### Key Contributions:
+- Developed responsive and visually appealing user interfaces using **HTML**, **CSS**, and **JavaScript**
+- Implemented server-side components and APIs using **Spring MVC** framework
+- Managed data storage and retrieval processes with **Oracle** and **SQLA** databases
+- Collaborated using **Git** for version control and code collaboration
+- Conducted unit testing and contributed to debugging efforts
+- Created detailed documentation to facilitate team collaboration
+- Actively participated in team discussions and code reviews
 
-## 🏆 Awards
-- 🥇 Service & Commitment Award  
-- 💡 Innovation Pride Award  
-- 🏆 Best Team Award  
-- 👏 Applause for Team  
-- ⚡ On-The-Spot Award  
+---
 
+## 🏆 Awards & Recognition
 
+<div align="center">
+  <table>
+    <tr>
+      <td>🥇 <strong>Service & Commitment Award</strong></td>
+      <td>💡 <strong>Innovation Pride Award</strong></td>
+    </tr>
+    <tr>
+      <td>🏆 <strong>Best Team Award</strong></td>
+      <td>👏 <strong>Applause for Team</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">⚡ <strong>On-The-Spot Award</strong></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 🎓 Education
 
-### 🎓 Master of Computer Application  
-**Anna University (ACCET, Karaikudi)**  
-📅 *2009 – 2012*
-
-### 🎓 Bachelor of Science (Information Technology)  
-**Madurai Kamaraj University (HKRH College)**  
-📅 *2006 – 2009*
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Master of Computer Application</strong></td>
+      <td><strong>Bachelor of Science (Information Technology)</strong></td>
+    </tr>
+    <tr>
+      <td>Anna University (ACCET, Karaikudi)<br>📅 2009 – 2012</td>
+      <td>Madurai Kamaraj University (HKRH College)<br>📅 2006 – 2009</td>
+    </tr>
+  </table>
+</div>
