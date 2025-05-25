@@ -1,8 +1,9 @@
 # Murali Thangamuthu
 ### 🚀 Senior Full Stack Engineer  
 📍 Unit 2, 12 Marsden Street, Granville, NSW 2142  
-📞 +61 470312057 | ✉️ murali.tmuthu@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-thangamuthu-65a5415a/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/muralitmuthuhotmail) [![Full Stack](https://img.shields.io/badge/-Full%20Stack-orange?style=flat)](https://github.com/muralitmuthuhotmail) [![Cloud Expert](https://img.shields.io/badge/-Cloud%20Expert-blue?style=flat&logo=googlecloud&logoColor=white)](https://github.com/muralitmuthuhotmail)
+📞 +61 470312057 | ✉️ murali.tmuthu@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-thangamuthu-65a5415a/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/muralitmuthuhotmail)
 
 
 
@@ -75,10 +76,9 @@ Experienced and solution-oriented **Full Stack Engineer** with **12+ years** in 
 ### 🔹 Senior Full Stack Engineer  
 **Macquarie Group (via FinXL)** | *Sydney, NSW*  
 📅 *Oct 2024 – Present*  
-
 <div >
   <strong>Project: The Reward Transformation</strong>
-  <p><em>Digital transformation program to streamline and automate reward processes</em></p>
+  <p><blockquote> Digital transformation program to streamline and automate reward processes</blockquote></p>
   <code>React</code> • <code>MUI</code> • <code>Node.js</code> • <code>NestJS</code> • <code>Express</code> • <code>AWS</code> • <code>PostgreSQL</code> • <code>Argo Workflows</code>
 </div>
 
@@ -96,7 +96,7 @@ Experienced and solution-oriented **Full Stack Engineer** with **12+ years** in 
 
 <div >
   <strong>Project: MPOS – Mobile Point of Sale</strong>
-  <p><em>Android application to facilitate queue busting during peak sales periods at store information/returns desks</em></p>
+  <p><blockquote>Android application to facilitate queue busting during peak sales periods at store information/returns desks</blockquote></p>
   <code>Android</code> • <code>Kotlin</code> • <code>Node.js</code> • <code>Azure</code> • <code>PostgreSQL</code> • <code>GCP</code> • <code>Azure DevOps</code>
 </div>
 
@@ -117,7 +117,7 @@ Experienced and solution-oriented **Full Stack Engineer** with **12+ years** in 
 
 <div >
   <strong>Project: Digital Team Movements</strong>
-  <p><em>Streamlining store team movements to improve efficiencies and data accuracy for Woolworths team members</em></p>
+  <p><blockquote>Streamlining store team movements to improve efficiencies and data accuracy for Woolworths team members</blockquote></p>
   <code>Angular</code> • <code>StencilJS</code> • <code>ReactJS</code> • <code>Node.js</code> • <code>GCP</code> • <code>AWS</code> • <code>Azure DevOps</code> • <code>Terraform</code>
 </div>
 
@@ -137,7 +137,7 @@ Experienced and solution-oriented **Full Stack Engineer** with **12+ years** in 
 
 <div >
   <strong>Projects: Store Central 2.0, Food Diversion, Action Center, Application Hardening</strong>
-  <p><em>Enterprise-scale retail management systems and innovative solutions for 2000+ Woolworths stores</em></p>
+  <p><blockquote>Enterprise-scale retail management systems and innovative solutions for 2000+ Woolworths stores</blockquote></p>
   <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>Node.js</code> • <code>GCP</code> • <code>Azure</code> • <code>Microservices</code> • <code>Micro Frontends</code> • <code>Terraform</code>
 </div>
 
@@ -171,7 +171,7 @@ Experienced and solution-oriented **Full Stack Engineer** with **12+ years** in 
 
 <div >
   <strong>Projects: Replenishment, Forecasting Accuracy</strong>
-  <p><em>Core retail system development for inventory management and forecasting</em></p>
+  <p><blockquote>Core retail system development for inventory management and forecasting</blockquote></p>
   <code>Java</code> • <code>Spring MVC</code> • <code>RESTful</code> • <code>Oracle</code> • <code>SQLA</code> • <code>Maven</code> • <code>JUnit</code>
 </div>
 
