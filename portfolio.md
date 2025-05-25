@@ -1,4 +1,4 @@
-# Murali Thangamuthu
+# Murali Thangamuthu 👋 
 ### 🚀 Senior Full Stack Engineer  
 📍 Unit 2, 12 Marsden Street, Granville, NSW 2142  
 📞 +61 470312057 | ✉️ murali.tmuthu@gmail.com
